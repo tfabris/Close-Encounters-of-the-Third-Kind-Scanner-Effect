@@ -192,9 +192,9 @@ shrink were made from tapered triangular patterns.
     the electronic shutter when the photocell encountered light, and "Black
     Open" would do the opposite, closing the electronic shutter when the
     photocell encountered light. (Photos: Scott Squires)    
-  | ![Test Polaroid B C Front](./images/Test%20Polaroid%20B%20C%20Front.jpeg) | ![Test Polaroid B C Back](./images/Test%20Polaroid%20B%20C%20Back.jpeg) |
+  | ![Test Polaroid B C Front](./images/Test%20Polaroid%20B%20C%20Front.jpg) | ![Test Polaroid B C Back](./images/Test%20Polaroid%20B%20C%20Back.jpg) |
   | -----------------------------------------------------------------|----------------------------------------------------------------|
-  | ![Test Polaroid C C Front](./images/Test%20Polaroid%20C%20C%20Front.jpeg) | ![Test Polaroid C C Back](./images/Test%20Polaroid%20C%20C%20Back.jpeg) |
+  | ![Test Polaroid C C Front](./images/Test%20Polaroid%20C%20C%20Front.jpg) | ![Test Polaroid C C Back](./images/Test%20Polaroid%20C%20C%20Back.jpg) |
 
 ### Multiple Patterns
 
