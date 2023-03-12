@@ -9,7 +9,7 @@ all of the details, photos, and information contained in this document.
 
 ## Introduction
 
-![CE3KMovieStill](images/CE3K%20Movie%20Still.jpg)
+![CE3KMovieStill](./images/CE3K%20Movie%20Still.jpg)
 
 Among the revolutionary special effects techniques used in the making of Steven
 Spielberg's seminal 1977 film *Close Encounters of the Third Kind*, there is
@@ -142,7 +142,7 @@ effect, long exposures were an important part of the final look.
     probably made into high-contrast 8"x10" positive and negative film
     transparencies for use in the scanner rig. (Photo credit: Unknown. Photo
     courtesy of Robert Swarthe)
-    ![BobAtWork](images/Bob%20at%20Work.jpg)
+    ![BobAtWork](./images/Bob%20at%20Work.jpg)
 
 Each long-exposure movie frame was photographed individually, with each exposure
 taking 30 seconds or more to complete. During each frame, the rig would make
@@ -157,7 +157,7 @@ was moved in sync.
     rotating fiber optic cable, it means that, for the lighting patterns which
     seem to be repeating many evenly-spaced lights, each "light" was its own
     unique section of the pattern. (Animation: Robert Swarthe)
-    ![Animation](images/CE3K%20Scan%20Animated.gif)
+    ![Animation](./images/CE3K%20Scan%20Animated.gif)
 
 The rig which held the patterns was an X/Y animation light table on its side,
 motorized by a MiniScan motion control system. In front of the pattern was a
@@ -169,7 +169,7 @@ photocell.
 - &#x24D8; Photo of one of the scanner patterns on the animation stand, with the
     photocell. This pattern looks like it was originally created with tape
     lines and then made into a transparency. (Photo: Dennis Muren)
-    ![PatternOnTheStand](images/Pattern%20on%20the%20Stand%201.jpg)
+    ![PatternOnTheStand](./images/Pattern%20on%20the%20Stand%201.jpg)
 
 The fiber optic cable in the mothership dome model, which emitted the scanner
 light, had its own light source and an electronic shutter, which was wired to
@@ -192,9 +192,9 @@ shrink were made from tapered triangular patterns.
     the electronic shutter when the photocell encountered light, and "Black
     Open" would do the opposite, closing the electronic shutter when the
     photocell encountered light. (Photos: Scott Squires)    
-  | ![Test Polaroid B C Front](images/Test%20Polaroid%20B%20C%20Front.jpeg) | ![Test Polaroid B C Back](images/Test%20Polaroid%20B%20C%20Back.jpeg) |
+  | ![Test Polaroid B C Front](./images/Test%20Polaroid%20B%20C%20Front.jpeg) | ![Test Polaroid B C Back](./images/Test%20Polaroid%20B%20C%20Back.jpeg) |
   | -----------------------------------------------------------------|----------------------------------------------------------------|
-  | ![Test Polaroid C C Front](images/Test%20Polaroid%20C%20C%20Front.jpeg) | ![Test Polaroid C C Back](images/Test%20Polaroid%20C%20C%20Back.jpeg) |
+  | ![Test Polaroid C C Front](./images/Test%20Polaroid%20C%20C%20Front.jpeg) | ![Test Polaroid C C Back](./images/Test%20Polaroid%20C%20C%20Back.jpeg) |
 
 ### Multiple Patterns
 
