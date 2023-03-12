@@ -9,7 +9,7 @@ all of the details, photos, and information contained in this document.
 
 ## Introduction
 
-![CE3KMovieStill](./images/CE3K Movie Still.jpg)
+![CE3KMovieStill](./images/CE3K%20Movie%20Still.jpg)
 
 Among the revolutionary special effects techniques used in the making of Steven
 Spielberg's seminal 1977 film *Close Encounters of the Third Kind*, there is
