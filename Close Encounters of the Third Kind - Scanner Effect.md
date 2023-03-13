@@ -105,8 +105,8 @@ model from the full mothership model. The full model, with its top sections
 heavily [greebled](https://en.wikipedia.org/wiki/Greeble) by Greg Jein and his
 team, was used for the long shots of the mothership, and it's currently
 [on display](https://www.si.edu/object/model-spacecraft-mother-ship-movie-close-encounters-third-kind%3Anasm_A19790906000)
-at the Smithsonian's Udvar-Hazy Center in Chantilly, VA. (I made a pilgrimage
-once, and got a bunch of pictures, it's amazing.) The full mothership model
+at the Smithsonian's Udvar-Hazy Center in Chantilly, VA (I made a pilgrimage
+once, and got a bunch of pictures, it's amazing). The full mothership model
 does not have the moving white scanner lights, those are only seen on the
 close-up underbelly section. The underbelly model with the scanner lights was
 just a dome painted white, with a circle cut out of its center. It was mounted
@@ -118,8 +118,9 @@ the final film.
     photographed in separate passes. The tiny lights which covered the expanse
     of the underbelly dome were created with slowly rotating
     [moiré patterns](https://en.wikipedia.org/wiki/Moir%C3%A9_pattern)
-    projected through various color filters onto the curved white surface of
-    the model. (Photos: Dennis Muren)    
+    projected through various color filters onto the curved white surface of the
+    model. (Photos: Dennis Muren, persons pictured: Dennis Muren, Scott Squires) 
+
   | ![Dennis Muren With Fog Machine](images/Dennis%20Muren%20With%20Fog%20Machine.jpg) | ![Dome Photography](images/Dome%20Photography.jpg)                        |
   | -----------------------------------------------------------------------------------|---------------------------------------------------------------------------|
   | ![Dome Projector](images/Dome%20Projector.jpg)                                     | ![Dome Moire Pattern on Projector](images/Dome%20Moire%20Pattern%203.jpg) |
@@ -162,8 +163,8 @@ effect, long exposures were an important part of the final look.
 Each long-exposure movie frame was photographed individually, with each exposure
 taking 30 seconds or more to complete. During each frame, the rig would make
 one pass. Each pass equaled one revolution of the fiber optic cable rotating
-around the circular opening, while simultaneously, the rig with the patterns
-was moved in sync.
+around the circular opening, while simultaneously, the rig with the pattern was
+moved in sync.
 
 - &#x24D8; Important detail: The system didn't move it back and forth during a
     single frame exposure. It moved only in one direction, making a single
@@ -174,10 +175,10 @@ was moved in sync.
     unique section of the pattern. (Animation: Robert Swarthe)
     ![Animation](images/CE3K%20Scan%20Animated.gif)
 
-The rig which held the patterns was an X/Y animation light table on its side,
+The rig which held the pattern was an X/Y animation light table on its side,
 motorized by a MiniScan motion control system. In front of the pattern was a
 photocell attached to a light stand. The photocell stayed fixed, while the
-animation stand with the patterns moved past it. Behind the pattern, on the
+animation stand with the pattern moved past it. Behind the pattern, on the
 back side of the animation stand, was a light source opposite the photocell.
 
 - &#x24D8; Photos of one of the scanner patterns on the animation stand, with
