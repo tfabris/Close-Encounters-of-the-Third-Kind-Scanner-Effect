@@ -44,8 +44,7 @@ Douglas Trumbull's famous [slit-scan](https://en.wikipedia.org/wiki/Slit-scan_ph
 effect from *2001: A Space Odyssey*. I began working on writing software code to
 reproduce the effect based on this concept. However, I needed more details if I
 wanted my simulation to be accurate. By the way, my code can be found on
-[GitHub here](https://github.com/tfabris/Close-Encounters-Mothership-Scanner),
-alongside the latest version of this document.
+[GitHub here](https://github.com/tfabris/Close-Encounters-Mothership-Scanner).
 
 After a bit of poking around, I found Ray Morton's excellent book,
 *[Close Encounters of the Third Kind - The Making of Steven Spielberg's Classic
