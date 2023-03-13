@@ -27,7 +27,7 @@ me in my childhood (I was ten years old at the time), I remembered the light
 patterns which had strongly affected me all those years ago. I decided that
 reproducing those patterns would be perfect for the LED lighting project.
 
-I found some other people on the internet who were also making their LED strips
+I found some other people on the internet who were also making their LED strands
 dance like the CE3K scanner lights, but none of them looked quite right to me.
 The existing versions seemed to be programming fixed-size bars of moving white
 lights. My guess was that these other versions didn't feel right because they
