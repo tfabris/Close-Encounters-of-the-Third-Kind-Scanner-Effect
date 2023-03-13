@@ -102,9 +102,9 @@ information or corrections.
 The scanner effect takes place on the close-up shots of the underbelly of the
 mothership. The underbelly section was built and photographed as a separate
 model from the full mothership model. The full model, with its top sections
-heavily [greebled](https://en.wikipedia.org/wiki/Greeble), was used for the
-long shots of the mothership, and it's currently 
-[on display ](https://www.si.edu/object/model-spacecraft-mother-ship-movie-close-encounters-third-kind%3Anasm_A19790906000)
+heavily [greebled](https://en.wikipedia.org/wiki/Greeble) by Greg Jein and his
+team, was used for the long shots of the mothership, and it's currently
+[on display](https://www.si.edu/object/model-spacecraft-mother-ship-movie-close-encounters-third-kind%3Anasm_A19790906000)
 at the Smithsonian's Udvar-Hazy Center in Chantilly, VA. (I made a pilgrimage
 once, and got a bunch of pictures, it's amazing.) The full mothership model
 does not have the moving white scanner lights, those are only seen on the
