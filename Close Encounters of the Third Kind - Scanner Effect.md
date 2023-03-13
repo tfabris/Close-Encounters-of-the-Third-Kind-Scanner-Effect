@@ -70,14 +70,14 @@ book.
 Thanks to the magic of the internet, and the kind help of some friendly people
 (and because I asked very nicely), I was able to get in touch with Robert
 Swarthe, the animator who was specifically mentioned in Ray's book as the one
-who made the black patterns. Robert put me in touch with Scott Squires as well,
-who photographed the sequence and who worked directly with Robert.
+who made the black patterns. Robert put me in touch with Scott Squires and
+Dennis Muren as well, who photographed and worked on other aspects of the
+scenes.
 
-Robert and Scott have been awesome. They supplied some of the photos below, and
-Robert even made an animated diagram, also included below. They contacted
-Dennis Muren, who sent along even more photographs. They took the time to
-answer all my questions and gave as many details as they could remember. This
-document attempts to record those details for posterity.
+Robert, Scott, and Dennis have been awesome. They supplied the photos below, and
+Robert even made an animated diagram, also included below. They took the time
+to answer all my questions and gave as many details as they could remember.
+This document attempts to record those details for posterity.
 
 ### Remembering the Details
 
