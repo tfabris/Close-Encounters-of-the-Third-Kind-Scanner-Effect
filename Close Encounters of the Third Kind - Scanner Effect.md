@@ -103,26 +103,42 @@ The scanner effect takes place on the close-up shots of the underbelly of the
 mothership. The underbelly section was built and photographed as a separate
 model from the full mothership model. The full model, with its top sections
 heavily [greebled](https://en.wikipedia.org/wiki/Greeble), was used for the
-long shots of the mothership, and it's currently on display at the
-Smithsonian's Udvar-Hazy Center in Chantilly, VA. (I made a pilgrimage once,
-and got a bunch of pictures, it's amazing.) The full mothership model does not
-have the moving white scanner lights, those are only seen on the close-up
-underbelly section.  The underbelly model with the scanner lights was just a
-dome painted white, with a circle cut out of its center. It was mounted on its
-side in the studio to make it easier to work with during filming. The camera
-was turned on its side too, so that the underbelly appeared upright in the
-final film.
+long shots of the mothership, and it's currently 
+[on display ](https://www.si.edu/object/model-spacecraft-mother-ship-movie-close-encounters-third-kind%3Anasm_A19790906000)
+at the Smithsonian's Udvar-Hazy Center in Chantilly, VA. (I made a pilgrimage
+once, and got a bunch of pictures, it's amazing.) The full mothership model
+does not have the moving white scanner lights, those are only seen on the
+close-up underbelly section. The underbelly model with the scanner lights was
+just a dome painted white, with a circle cut out of its center. It was mounted
+on its side in the studio to make it easier to work with during filming. The
+camera was turned on its side too, so that the underbelly appeared upright in
+the final film.
 
-All of the underbelly details were done with lighting effects, photographed in
-separate passes. The tiny lights which formed the underbelly were created with
-slowly rotating moiré patterns projected through various color filters onto the
-curved white surface of the model. The white scanner lights using the rotating
-fiber optic rig were photographed on the same negative. This film was developed
-and sent to the optical printing department where it was combined with the
-live-action footage and a matte painting. Then, the un-developed optical
-internegative was sent to the animation department where the colored
-conversation lights were added, hand-animated, using an Oxberry animation stand
-by Robert Swarthe and Scott Squires.
+- &#x24D8; All of the underbelly details were done with lighting effects,
+    photographed in separate passes. The tiny lights which covered the expanse
+    of the underbelly dome were created with slowly rotating
+    [moiré patterns](https://en.wikipedia.org/wiki/Moir%C3%A9_pattern)
+    projected through various color filters onto the curved white surface of
+    the model. (Photos: Dennis Muren)    
+  | ![Dennis Muren With Fog Machine](images/Dennis%20Muren%20With%20Fog%20Machine.jpg) | ![Dome Photography](images/Dome%20Photography.jpg)                        |
+  | -----------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+  | ![Dome Projector](images/Dome%20Projector.jpg)                                     | ![Dome Moire Pattern on Projector](images/Dome%20Moire%20Pattern%203.jpg) |
+  | ![Dome Moire Pattern 1](images/Dome%20Moire%20Pattern%201.jpg)                     | ![Dome Moire Pattern 2](images/Dome%20Moire%20Pattern%202.jpg)            |
+
+The white scanner lights, using the rotating fiber optic rig, were photographed
+on the same negative as the moiré patterns. This film was developed and sent to
+the optical printing department where it was combined with the live-action
+footage and a matte painting. Then, the un-developed optical internegative was
+sent to the animation department where the hand-animated colored conversation
+lights were added, using an Oxberry animation stand, by Robert Swarthe and
+Scott Squires.
+
+- &#x24D8; (Photos: Dennis Muren, except for the last one which is merely a
+    screen grab from the film, for context)  
+  | ![Composite Plate 1](images/Composite%20Plate%201.jpg)| ![Composite Plate 2](images/Composite%20Plate%202.jpg)      |
+  | ------------------------------------------------------|-------------------------------------------------------------|
+  | ![Composite Plate 3](images/Composite%20Plate%203.jpg)| ![Composite Plate 4](images/Composite%20Plate%204.jpg)      |
+  | ![Composite Plate 5](images/Composite%20Plate%205.jpg)| ![Composite Shot Final](images/Composite%20Shot%20Final.jpg)|
 
 ### Scanner Details
 
@@ -162,19 +178,32 @@ The rig which held the patterns was an X/Y animation light table on its side,
 motorized by a MiniScan motion control system. In front of the pattern was a
 photocell attached to a light stand. The photocell stayed fixed, while the
 animation stand with the patterns moved past it. Behind the pattern, on the
-opposite side of the animation stand, was a light source opposite the
-photocell.
+back side of the animation stand, was a light source opposite the photocell.
 
-- &#x24D8; Photo of one of the scanner patterns on the animation stand, with the
-    photocell. This pattern looks like it was originally created with tape
-    lines and then made into a transparency. (Photo: Dennis Muren)
-    ![PatternOnTheStand](images/Pattern%20on%20the%20Stand%201.jpg)
+- &#x24D8; Photos of one of the scanner patterns on the animation stand, with
+    the light source on one side and the photocell on the other. This pattern
+    looks like it was originally created with tape lines and then made into a
+    transparency. Also shown: the motion controller for the animation stand
+    and the rotating scanner arm. (Photos: Dennis Muren)
+    | ![Pattern on the Stand 3](images/Pattern%20on%20the%20Stand%203.jpg) | ![Pattern on the Stand 1](images/Pattern%20on%20the%20Stand%201.jpg) |
+    | ---------------------------------------------------------------------|----------------------------------------------------------------------|
+    | ![Pattern on the Stand 2](images/Pattern%20on%20the%20Stand%202.jpg) |                                                                      |
+    | ![Motion Controller 1](images/Motion%20Controller%201.jpg)           | ![Motion Controller 2](images/Motion%20Controller%202.jpg)           |
 
 The fiber optic cable in the mothership dome model, which emitted the scanner
 light, had its own light source and an electronic shutter, which was wired to
 open and close depending on the photocell in front of the pattern. Any light
 hitting the photocell would cause the light source's electronic shutter to
 open, causing light to emit from the fiber optic assembly.
+
+- &#x24D8; Photos of the mechanical details of the dome model, including the
+    light source for the fiber optic scanner light and the emitter on the
+    rotating arm. (Photos: Dennis Muren)
+
+    | ![Dome Mechanics 1](images/Dome%20Mechanics%201.jpg)         | ![Dome Mechanics 2](images/Dome%20Mechanics%202.jpg)             |
+    | -------------------------------------------------------------|------------------------------------------------------------------|
+    | ![Scanner Light Source](images/Scanner%20Light%20Source.jpg) | ![Scanner and Hatch 1](images/Scanner%20and%20Hatch%201.jpg)     |
+    | ![Scanner Emitter](images/Scanner%20Emitter.jpg)             |                                                                  |
 
 The pattern would make one horizontal pass across the photocell for each
 rotation of the fiber optic cable. The entire rig would then reset before
@@ -197,13 +226,14 @@ shrink were made from tapered triangular patterns.
 
 ### Multiple Patterns
 
-This is where I get unnaturally obsessive. My long term goal is to accurately
-recreate every one of the patterns seen in the theatrical release of the film.
+This is where I get unnaturally obsessive. My long-term goal is to accurately
+[recreate](https://github.com/tfabris/Close-Encounters-Mothership-Scanner)
+every one of the patterns seen in the theatrical release of the film.
 
 Several different patterns were used which ended up in the final film. Robert
 doesn't remember the details of all the patterns which were created, but with
-the information above, it should be possible to reverse-engineer them. I will
-try to update this section as I get more information.
+the information in this document, it should be possible to reverse-engineer
+them. I continue to update this section as I get more information.
 
 - The first pattern seen in the film is quite complex. It is used as the
   mothership first descends. The complex pattern merges into large bars which
@@ -220,9 +250,8 @@ try to update this section as I get more information.
 - The pattern for most of the musical sequence, and also re-used in some other
   shots throughout the scene, looks like small, evenly-spaced lights which
   counter-rotate, causing them to seem to merge and separate in pairs. This
-  would have been created by lines making long diamond-shaped patterns; a photo
-  above, showing the pattern on the animation stand, looks like it might be
-  this pattern.
+  would have been created by lines making long diamond-shaped patterns, and
+  it seems to be an exact match for [this pattern](images/Pattern%20on%20the%20Stand%201.jpg).
 
 - At some moments, a particularly chaotic sequence of lights is displayed,
   including the moment where a loud note causes glass to break. Robert said
@@ -254,8 +283,9 @@ synchronize with the music. The curve of the colored lights, the top and bottom
 edges, were masked with Exeter paper, and the pivot gimmicks were used for
 expanding and contracting the width of the color bars. Robert made a set of
 [exposure sheets](https://en.wikipedia.org/wiki/Exposure_sheet) with
-instructions for each frame, and Scott Squires followed those instructions,
-hand-moving the pivot gimmicks for each frame.
+instructions for each frame, timed to the pre-recorded soundtrack with the tuba
+music. Scott Squires followed those instructions, hand-moving the pivot
+gimmicks for each frame.
 
 In the "making of" documentary included in the 2001 DVD Collectors Edition of
 the film, Robert says that the color choices of the lights were his own
