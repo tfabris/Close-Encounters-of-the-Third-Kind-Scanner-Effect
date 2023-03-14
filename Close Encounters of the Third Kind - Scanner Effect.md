@@ -198,8 +198,12 @@ open, causing light to emit from the fiber optic assembly.
 
 - &#x24D8; Photos of the mechanical details of the dome model, including the
     light source for the fiber optic scanner light and the emitter on the
-    rotating arm. (Photos: Dennis Muren)
-
+    rotating arm. The black cube-like object in the middle of the hole
+    corresponds to the hatch section of the mothership, it blocks the light
+    from the dome and the scanner for the shots where the hatch is lowered. The
+    hatch itself was part of the live-action set, this model only needed to
+    block the light in the same location where the hatch would be.
+    (Photos: Dennis Muren)
     | ![Dome Mechanics 1](images/Dome%20Mechanics%201.jpg)         | ![Dome Mechanics 2](images/Dome%20Mechanics%202.jpg)             |
     | -------------------------------------------------------------|------------------------------------------------------------------|
     | ![Scanner Light Source](images/Scanner%20Light%20Source.jpg) | ![Scanner and Hatch 1](images/Scanner%20and%20Hatch%201.jpg)     |
@@ -219,10 +223,12 @@ shrink were made from tapered triangular patterns.
     system could be changed between those two modes: "White Open" would open
     the electronic shutter when the photocell encountered light, and "Black
     Open" would do the opposite, closing the electronic shutter when the
-    photocell encountered light. (Photos: Scott Squires)    
-  | ![Test Polaroid B C Front](images/Test%20Polaroid%20B%20C%20Front.jpg) | ![Test Polaroid B C Back](images/Test%20Polaroid%20B%20C%20Back.jpg) |
-  | -----------------------------------------------------------------|----------------------------------------------------------------|
-  | ![Test Polaroid C C Front](images/Test%20Polaroid%20C%20C%20Front.jpg) | ![Test Polaroid C C Back](images/Test%20Polaroid%20C%20C%20Back.jpg) |
+    photocell encountered light. The hatch section, seen more clearly in the
+    photos above, is referred to as the "Monilyth" (sic) on one of the
+    Polaroids. (Photos: Scott Squires)    
+    | ![Test Polaroid B C Front](images/Test%20Polaroid%20B%20C%20Front.jpg) | ![Test Polaroid B C Back](images/Test%20Polaroid%20B%20C%20Back.jpg) |
+    | -----------------------------------------------------------------|----------------------------------------------------------------|
+    | ![Test Polaroid C C Front](images/Test%20Polaroid%20C%20C%20Front.jpg) | ![Test Polaroid C C Back](images/Test%20Polaroid%20C%20C%20Back.jpg) |
 
 ### Multiple Patterns
 
