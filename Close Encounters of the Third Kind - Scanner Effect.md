@@ -188,8 +188,7 @@ back side of the animation stand, was a light source opposite the photocell.
     and the rotating scanner arm. (Photos: Dennis Muren)
     | ![Pattern on the Stand 3](images/Pattern%20on%20the%20Stand%203.jpg) | ![Pattern on the Stand 1](images/Pattern%20on%20the%20Stand%201.jpg) |
     | ---------------------------------------------------------------------|----------------------------------------------------------------------|
-    | ![Pattern on the Stand 2](images/Pattern%20on%20the%20Stand%202.jpg) |                                                                      |
-    | ![Motion Controller 1](images/Motion%20Controller%201.jpg)           | ![Motion Controller 2](images/Motion%20Controller%202.jpg)           |
+    | ![Pattern on the Stand 2](images/Pattern%20on%20the%20Stand%202.jpg) |  ![Motion Controller 1](images/Motion%20Controller%201.jpg) ![Motion Controller 2](images/Motion%20Controller%202.jpg) |
 
 The fiber optic cable in the mothership dome model, which emitted the scanner
 light, had its own light source and an electronic shutter, which was wired to
