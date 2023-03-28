@@ -71,8 +71,7 @@ Thanks to the magic of the internet, and the kind help of some friendly people
 (and because I asked very nicely), I was able to get in touch with Robert
 Swarthe, the animator who was specifically mentioned in Ray's book as the one
 who made the black patterns. Robert put me in touch with Scott Squires and
-Dennis Muren as well, who photographed and worked on other aspects of the
-scenes.
+Dennis Muren as well, who photographed and worked on the scenes.
 
 Robert, Scott, and Dennis have been awesome. They supplied the photos below, and
 Robert even made an animated diagram, also included below. They took the time
